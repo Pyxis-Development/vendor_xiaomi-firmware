@@ -7,7 +7,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/firmware/pyxis/cmnlib64.mbn:install/firmware-update/cmnlib64.mbn \
     vendor/xiaomi/firmware/pyxis/devcfg.mbn:install/firmware-update/devcfg.mbn \
     vendor/xiaomi/firmware/pyxis/dspso.bin:install/firmware-update/dspso.bin \
-    vendor/xiaomi/firmware/pyxis/dtbo.img:install/firmware-update/dtbo.img \
     vendor/xiaomi/firmware/pyxis/hyp.mbn:install/firmware-update/hyp.mbn \
     vendor/xiaomi/firmware/pyxis/keymaster64.mbn:install/firmware-update/keymaster64.mbn \
     vendor/xiaomi/firmware/pyxis/logfs_ufs_8mb.bin:install/firmware-update/logfs_ufs_8mb.bin \

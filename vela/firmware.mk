@@ -7,7 +7,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/firmware/vela/cmnlib64.mbn:install/firmware-update/cmnlib64.mbn \
     vendor/xiaomi/firmware/vela/devcfg.mbn:install/firmware-update/devcfg.mbn \
     vendor/xiaomi/firmware/vela/dspso.bin:install/firmware-update/dspso.bin \
-    vendor/xiaomi/firmware/vela/dtbo.img:install/firmware-update/dtbo.img \
     vendor/xiaomi/firmware/vela/hyp.mbn:install/firmware-update/hyp.mbn \
     vendor/xiaomi/firmware/vela/keymaster64.mbn:install/firmware-update/keymaster64.mbn \
     vendor/xiaomi/firmware/vela/logfs_ufs_8mb.bin:install/firmware-update/logfs_ufs_8mb.bin \
